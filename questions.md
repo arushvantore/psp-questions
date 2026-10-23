@@ -1,5 +1,5 @@
 # EVERY PSP question (portal, till now)
-Generated: 2026-10-23T12:59:09 by `scrape.py --export PSP`
+Generated: 2026-10-23T14:26:55 by `scrape.py --export PSP`
 
 For the AI tutor: teach these in due-date order. Status and
 XP are the student's real portal state. Question text is
@@ -7873,10 +7873,759 @@ Next
 Newton School
 
 ---
+## Questions shared in Slack (channels #psp-26, #psp-b1, #psp-b2)
+Read-only Slack search harvest (`slack_harvest.py`, 2026-10-23): 62 messages total, every Slack-reported result captured. #psp-26: 39 msgs (39 reported) 10 Sep -> 22 Oct, #psp-b1: 12 msgs (12 reported) 3 Sep -> 25 Sep, #psp-b2: 11 msgs (11 reported) 31 Aug -> 25 Sep.
+
+### Standing directive (#psp-26, 9 Oct)
+> Hey everyone,
+> Listen up regarding the 2 Codeforces spreadsheets our PSP teacher just shared. The teacher has specifically directed that every single one of us needs to solve at least 2 questions a day from these lists. This is what is expected of us, so please make sure you are actually hitting that daily target and not falling behind.
+> To track your work and mark questions as 'attempted' or 'done' like the teacher wants, you have to make your own editable version (the shared links are view-only).
+> Here is exactly how to do it:
+> 
+> Open the spreadsheet links.
+> Click on File (top left) > Make a copy.
+> Save it to your own Drive.
+> Update your personal copy daily as you complete the questions.
+> Make sure you get this set up today and start tracking your daily progress!
+> Spreedsheet1-docs.google.com/spreadsheets/d/11wzmT1pPkdl…/edit?gid=0#gid=0
+> Spreedsheet2-docs.google.com/spreadsheets/d/1IDDciP8Mued…/edit?gid=0#gid=0 (edited)
+
+### Codeforces sheet 1 — If-Else & Math, 63 problems (shared #psp-26, 30 Sep; view-only sheet — File > Make a copy to tick attempts)
+Sheet: https://docs.google.com/spreadsheets/d/11wzmT1pPkdl-seC8Qzx7DgAKfV4H-tnZOsm9ZbhoIZA/edit?gid=0#gid=0
+- 2. **800** · If-Else · [Ideal Generator](https://codeforces.com/contest/2093/problem/A)
+- 3. **800** · If-Else · [Draw a Square](https://codeforces.com/contest/2074/problem/A)
+- 4. **800** · If-Else · [New World, New Me, New Array](https://codeforces.com/contest/2072/problem/A)
+- 5. **800** · If-Else · [Sakurako's Exam](https://codeforces.com/contest/2008/problem/A)
+- 6. **800** · If-Else · [Primary Task](https://codeforces.com/contest/2000/problem/A)
+- 7. **800** · If-Else · [Legs](https://codeforces.com/contest/1996/problem/A)
+- 8. **800** · If-Else · [X Axis](https://codeforces.com/contest/1986/problem/A)
+- 9. **800** · If-Else · [Phone Desktop](https://codeforces.com/contest/1974/problem/A)
+- 10. **800** · Math · [Maximize?](https://codeforces.com/contest/1968/problem/A)
+- 11. **800** · If-Else · [Yogurt Sale](https://codeforces.com/contest/1955/problem/A)
+- 12. **800** · Math · [Setting up Camp](https://codeforces.com/contest/1945/problem/A)
+- 13. **800** · Math · [Rudolf and the Ticket](https://codeforces.com/contest/1941/problem/A)
+- 14. **800** · Math · [Square](https://codeforces.com/contest/1921/problem/A)
+- 15. **800** · If-Else · [Game with Integers](https://codeforces.com/contest/1899/problem/A)
+- 16. **800** · Math · [Morning](https://codeforces.com/contest/1883/problem/A)
+- 17. **800** · Math · [Two Vessels](https://codeforces.com/contest/1872/problem/A)
+- 18. **800** · If-Else · [Two Elevators](https://codeforces.com/contest/1729/problem/A)
+- 19. **800** · Math · [Food for Animals](https://codeforces.com/contest/1675/problem/A)
+- 20. **800** · If-Else · [Number Transformation](https://codeforces.com/contest/1674/problem/A)
+- 21. **800** · If-Else · [Vasya and Coins](https://codeforces.com/contest/1660/problem/A)
+- 22. **800** · Math · [Polycarp and Sums of Subsequences](https://codeforces.com/contest/1618/problem/A)
+- 23. **800** · Math · [Elections](https://codeforces.com/contest/1593/problem/A)
+- 24. **800** · If-Else · [Polycarp and Coins](https://codeforces.com/contest/1551/problem/A)
+- 25. **800** · If-Else · [Shortest Path with Obstacle](https://codeforces.com/contest/1547/problem/A)
+- 26. **800** · Math · [Strange Table](https://codeforces.com/contest/1506/problem/A)
+- 27. **900** · If-Else · [Odd Divisor](https://codeforces.com/contest/1475/problem/A)
+- 28. **800** · If-Else · [Floor Number](https://codeforces.com/contest/1426/problem/A)
+- 29. **800** · Math · [Yet Another Two Integers Problem](https://codeforces.com/contest/1409/problem/A)
+- 30. **800** · If-Else · [Required Remainder](https://codeforces.com/contest/1374/problem/A)
+- 31. **800** · Math · [Minimal Square](https://codeforces.com/contest/1360/problem/A)
+- 32. **800** · Math · [Most Unstable Array](https://codeforces.com/contest/1353/problem/A)
+- 33. **800** · Math · [Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A)
+- 34. **800** · If-Else · [Divisibility Problem](https://codeforces.com/contest/1328/problem/A)
+- 35. **900** · If-Else · [Yet Another Tetris Problem](https://codeforces.com/contest/1324/problem/A)
+- 36. **800** · If-Else · [Add Odd or Subtract Even](https://codeforces.com/contest/1311/problem/A)
+- 37. **800** · If-Else · [Collecting Coins](https://codeforces.com/contest/1294/problem/A)
+- 38. **800** · Math · [Minutes Before the New Year](https://codeforces.com/contest/1283/problem/A)
+- 39. **900** · Math · [Three Friends](https://codeforces.com/contest/1272/problem/A)
+- 40. **1000** · If-Else · [Payment Without Change](https://codeforces.com/contest/1256/problem/A)
+- 41. **800** · Math · [Three Piles of Candies](https://codeforces.com/contest/1196/problem/A)
+- 42. **800** · Math · [Restoring Three Numbers](https://codeforces.com/contest/1154/problem/A)
+- 43. **1000** · Math · [Middle of the Contest](https://codeforces.com/contest/1133/problem/A)
+- 44. **800** · Math · [Water Buying](https://codeforces.com/contest/1118/problem/A)
+- 45. **800** · If-Else · [Integer Sequence Dividing](https://codeforces.com/contest/1102/problem/A)
+- 46. **800** · Math · [Frog Jumping](https://codeforces.com/contest/1077/problem/A)
+- 47. **1100** · Math · [Vova and Train](https://codeforces.com/contest/1066/problem/A)
+- 48. **800** · Math · [Adjacent Replacements](https://codeforces.com/contest/1006/problem/A)
+- 49. **800** · If-Else · [Journey](https://codeforces.com/contest/2051/problem/B)
+- 50. **800** · If-Else · [Robin Hood and the Major Oak](https://codeforces.com/contest/2014/problem/B)
+- 51. **900** · Math · [Fireworks](https://codeforces.com/contest/1945/problem/B)
+- 52. **900** · If-Else · [Three Threadlets](https://codeforces.com/contest/1881/problem/B)
+- 53. **900** · Math · [The Corridor or There and Back Again](https://codeforces.com/contest/1872/problem/B)
+- 54. **1100** · Math · [Binary Cafe](https://codeforces.com/contest/1840/problem/B)
+- 55. **1000** · Math · [Conveyor Belts](https://codeforces.com/contest/1811/problem/B)
+- 56. **800** · Math · [Taisia and Dice](https://codeforces.com/contest/1790/problem/B)
+- 57. **800** · If-Else · [Matrix Rotation](https://codeforces.com/contest/1772/problem/B)
+- 58. **900** · Math · [DIV + MOD](https://codeforces.com/contest/1650/problem/B)
+- 59. **900** · If-Else · [Make AP](https://codeforces.com/contest/1624/problem/B)
+- 60. **800** · Math · [Team Composition: Programmers and Mathematicians](https://codeforces.com/contest/1611/problem/B)
+- 61. **900** · Math · [Odd Grasshopper](https://codeforces.com/contest/1607/problem/B)
+- 62. **900** · If-Else · [New Year's Number](https://codeforces.com/contest/1475/problem/B)
+- 63. **1100** · Math · [Minimum Product](https://codeforces.com/contest/1409/problem/B)
+- 64. **900** · Math · [Candies Division](https://codeforces.com/contest/1283/problem/B)
+
+### Codeforces sheet 2 — Loops, 34 problems (shared #psp-26, 30 Sep; view-only sheet — File > Make a copy to tick attempts)
+Sheet: https://docs.google.com/spreadsheets/d/1IDDciP8MuedEJKSfnL2uAdIKj9S6YrzHLOULxByxqLs/edit?gid=0#gid=0
+- 2. **800** · Loops · [Sakurako and Kosuke](https://codeforces.com/contest/2033/problem/A)
+- 3. **800** · Loops · [Rudolph and Cut the Rope ](https://codeforces.com/contest/1846/problem/A)
+- 4. **800** · Loops · [Everyone Loves to Sleep](https://codeforces.com/contest/1714/problem/A)
+- 5. **800** · Loops · [Round Down the Price](https://codeforces.com/contest/1702/problem/A)
+- 6. **800** · Loops · [Print a Pedestal (Codeforces logo?)](https://codeforces.com/contest/1690/problem/A)
+- 7. **800** · Loops · [Dislike of Threes](https://codeforces.com/contest/1560/problem/A)
+- 8. **800** · Loops · [Dense Array](https://codeforces.com/contest/1490/problem/A)
+- 9. **800** · Loops · [Cards for Friends](https://codeforces.com/contest/1472/problem/A)
+- 10. **800** · Loops · [Special Permutation](https://codeforces.com/contest/1454/problem/A)
+- 11. **800** · Loops · [Candies](https://codeforces.com/contest/1343/problem/A)
+- 12. **1100** · Loops · [Array with Odd Sum](https://codeforces.com/contest/1296/problem/A)
+- 13. **1000** · Loops · [Equalize Prices Again](https://codeforces.com/contest/1234/problem/A)
+- 14. **800** · Loops · [Chips Moving](https://codeforces.com/contest/1213/problem/A)
+- 15. **800** · Loops · [Nearest Interesting Number](https://codeforces.com/contest/1183/problem/A)
+- 16. **800** · Loops · [Divide it!](https://codeforces.com/contest/1176/problem/A)
+- 17. **900** · Loops · [Reachable Numbers](https://codeforces.com/contest/1157/problem/A)
+- 18. **1000** · Loops · [Game 23](https://codeforces.com/contest/1141/problem/A)
+- 19. **800** · Loops · [Repeating Cipher](https://codeforces.com/contest/1095/problem/A)
+- 20. **800** · Loops · [Uniform String](https://codeforces.com/contest/1092/problem/A)
+- 21. **800** · Loops · [Wrong Subtraction](https://codeforces.com/contest/977/problem/A)
+- 22. **900** · Loops · [St. Chroma](https://codeforces.com/contest/2106/problem/B)
+- 23. **800** · Loops · [Aleksa and Stack](https://codeforces.com/contest/1878/problem/B)
+- 24. **800** · Loops · [Funny Permutation](https://codeforces.com/contest/1741/problem/B)
+- 25. **800** · Loops · [Who's Opposite?](https://codeforces.com/contest/1560/problem/B)
+- 26. **800** · Loops · [Ordinary Numbers](https://codeforces.com/contest/1520/problem/B)
+- 27. **800** · Loops · [Fair Division](https://codeforces.com/contest/1472/problem/B)
+- 28. **900** · Loops · [Symmetric Matrix](https://codeforces.com/contest/1426/problem/B)
+- 29. **900** · Loops · [Multiply by 2, divide by 6](https://codeforces.com/contest/1374/problem/B)
+- 30. **800** · Loops · [Even Array](https://codeforces.com/contest/1367/problem/B)
+- 31. **800** · Loops · [Balanced Array](https://codeforces.com/contest/1343/problem/B)
+- 32. **900** · Loops · [Construct the String](https://codeforces.com/contest/1335/problem/B)
+- 33. **1300** · Loops · [K-th Beautiful String](https://codeforces.com/contest/1328/problem/B)
+- 34. **900** · Loops · [Food Buying](https://codeforces.com/contest/1296/problem/B)
+- 35. **1000** · Loops · [Disturbed People](https://codeforces.com/contest/1077/problem/B)
+
+### 12-problem Codeforces code list (shared #psp-26, 22 Oct)
+- 977 A — Wrong Subtraction (800) — https://codeforces.com/contest/977/problem/A
+- 978 B — File Name (800) — https://codeforces.com/contest/978/problem/B
+- 988 A — Diverse Team (800) — https://codeforces.com/contest/988/problem/A
+- 996 A — Hit the Lottery (800) — https://codeforces.com/contest/996/problem/A
+- 731 A — Night at the Museum (800) — https://codeforces.com/contest/731/problem/A
+- 832 A — Sasha and Sticks (800) — https://codeforces.com/contest/832/problem/A
+- 1800 A — Is It a Cat? (800) — https://codeforces.com/contest/1800/problem/A
+- 910 A — The Way to Home (800) — https://codeforces.com/contest/910/problem/A
+- 115 A — Party (900) — https://codeforces.com/contest/115/problem/A
+- 977 B — Two-gram (900) — https://codeforces.com/contest/977/problem/B
+- 1113 A — Sasha and His Trip (900) — https://codeforces.com/contest/1113/problem/A
+- 948 A — Protect Sheep (900) — https://codeforces.com/contest/948/problem/A
+
+### Python Functions — Practice Workbook (shared #psp-26, 19 Oct via Google Drive) — 23 pages, 150 marks, units 1-13, 47 numbered questions (full text extracted below)
+PDF: https://drive.google.com/file/d/1EChJusWJdC8U-BFqMkwpRl0CcWujHB1W/view?usp=sharing
+
+```
+Python Functions: Practice Workbook
+Name: ____________________ Class: ________ Date: ____________ Score: ______ / 150
+This workbook builds one idea at a time, in the order you will meet them: what a function
+is, how to define it, what return  and print  do, when to use which, how to take a value
+out, and how to send values in. Every unit has the same three steps: Big idea (read it),
+Example (see it work), Questions (your turn). Units 1 to 9 make Session 1. Units 10 to 13
+make Session 2, where several functions start working together.
+Rules for output questions: write exactly what appears on screen, one line per line. Write
+NOTHING if nothing appears. If Python crashes, write the error name.
+Unit Topic Time Marks Your score
+1 What is a function? 5 min 5
+2 How to define and call a function 10 min 10
+3 What is return? 10 min 10
+4 What is print? 5 min 5
+5 print vs return: which one, and when? 12 min 15
+6 How to take a value out of a function 8 min 10
+7 How to send values into a function 10 min 10
+8 Decisions and loops inside functions 15 min 15
+9 Functions calling functions, and scope 10 min 10
+Session 1 subtotal 85 min 90
+10 Functions working together 15 min 15
+11 Function reference 15 min 15
+12 Recursion made easy 15 min 15
+13 Final challenge 15 min 15
+Session 2 subtotal 60 min 60
+Total 145 min 150
+Python Functions - Practice Workbook
+Page 1 of 23
+Unit 1: What Is a Function? (5 marks)
+Big idea. A function is a named block of code that does one job. Write it once, then use it
+as many times as you like.
+Example. A coffee machine works like a function: you give it something (water, beans), it
+follows fixed steps, and it gives something back (coffee). Python already has functions
+you can use: len('hello')  gives 5, and max(3, 9)  gives 9.
+Questions
+1.1 (2 marks) Write the names of any two built-in Python functions you have used before.
+____________________ and ____________________
+1.2 (1 mark) Why do we write a function instead of copying the same lines of code again
+and again?
+Answer: ______________________________________________
+1.3 (2 marks) Name one real-life machine that works like a function. What goes in, and
+what comes out?
+Machine: ________________ Goes in: ________________ Comes out: ________________
+Unit 2: How to Define and Call a Function (10 marks)
+Big idea. def  creates (defines) a function but does not run it. The function runs only
+when you call it: write its name followed by parentheses. The lines inside the function
+must be indented.
+Example.
+def hello():
+    print('Hello!')
+hello()
+This prints Hello!  once, because there is one call. The def  part on its own prints
+nothing.
+Questions
+2.1 (3 marks) Look at the line def bell():  and name each part.
+The keyword that starts a definition: ______________
+Python Functions - Practice Workbook
+Page 2 of 23
+The name of the function: ______________
+The symbol that must end the line: ______________
+2.2 (4 marks) Predict the output. Write one line per box.
+def bell():
+    print('Ding!')
+print('Start')
+bell()
+bell()
+print('End')
+Line 1: ______________
+Line 2: ______________
+Line 3: ______________
+Line 4: ______________
+2.3 (3 marks) Each snippet has one mistake. Say what it is in a few words.
+a)
+def bell()
+    print('Ding!')
+Mistake: ______________________________________
+b)
+def bell():
+print('Ding!')
+Mistake: ______________________________________
+c)
+bell()
+def bell():
+    print('Ding!')
+Mistake: ______________________________________
+Python Functions - Practice Workbook
+Page 3 of 23
+Unit 3: What Is return? (10 marks)
+Big idea. return  sends a value out of the function, back to the line that called it. It also
+ends the function straight away.
+Example.
+def double(x):
+    return x * 2
+print(double(4))
+Python replaces the call double(4)  with the value it returns, so the line becomes
+print(8)  and the screen shows 8 .
+Questions
+3.1 (2 marks) In your own words, what does return  do?
+Answer: ______________________________________________
+3.2 (3 marks) Predict the output, then answer the question below it.
+def test():
+    print('A')
+    return 'B'
+    print('C')
+print(test())
+Line 1: ______________
+Line 2: ______________
+Why does C  never appear? Answer: ______________________________
+3.3 (3 marks) Write a function triple(n)  that returns n  times 3. Then write one line that
+prints the result of triple(5) .
+# your function here
+# your print line here
+Python Functions - Practice Workbook
+Page 4 of 23
+3.4 (2 marks) A function has no return  statement. What value does a call to it give back?
+Answer: ______________
+Unit 4: What Is print? (5 marks)
+Big idea. print()  shows text on the screen for a person to read. It does not hand a value
+back to your program.
+Example.
+def show_double(x):
+    print(x * 2)
+show_double(4)
+The screen shows 8 , but the rest of the program receives nothing from show_double .
+Questions
+4.1 (2 marks) Answer both parts.
+Who reads what print()  shows: the person at the screen, or the rest of the program?
+______________
+Does print()  send a value back to the line that called the function (Yes or No)?
+______________
+4.2 (3 marks) Write a function welcome(name)  that prints Welcome, followed by the
+name (for example Welcome, Meena ). Then call it with 'Meena' .
+# your function here
+# your call here
+Unit 5: print vs return: Which One, and When? (15 marks)
+Big idea. Use print  when you only want to display something. Use return  when the
+result will be used again: stored, calculated with, compared, or passed on. A function can
+do both.
+Python Functions - Practice Workbook
+Page 5 of 23
+Example. Two functions that look alike but behave differently:
+def show(x):
+    print(x * 3)
+def give(x):
+    return x * 3
+show(2)  puts 6 on the screen. give(2)  hands the value 6 back to the line that called it,
+and that line decides what to do with it.
+Questions
+5.1 (6 marks) What appears on screen? Treat each row as a separate script file, using
+these two functions. Write NOTHING if nothing appears, or the error name if Python
+crashes.
+def p(x):
+    print(x + 10)
+def r(x):
+    return x + 10
+5.2 (3 marks) Write print  or return  for each function.
+a) It works out the area of a rectangle, so the area can be multiplied by a price later:
+______________
+b) It shows a welcome message to the user: ______________
+Code What appears on screen?
+a p(1)
+b r(1)
+c print(p(1))
+d print(r(1))
+e print(r(1) + 5)
+f print(p(1) + 5)
+Python Functions - Practice Workbook
+Page 6 of 23
+c) It checks whether a number is even, and the answer is used inside an if  statement:
+______________
+5.3 (3 marks) In a script file, a function returns a value and you call it on its own line,
+without storing it or printing it. Does the value appear on the screen? What happens to it?
+Answer: ______________________________________________
+5.4 (3 marks) Predict the output (2 marks), then explain why the second line appears (1
+mark).
+def shout():
+    print('Hey!')
+print(shout())
+Line 1: ______________
+Line 2: ______________
+Why? Answer: ______________________________________________
+Unit 6: How to Take a Value Out of a Function (10 marks)
+Big idea. A returned value is lost unless you catch it. You can catch it in three ways: store it
+in a variable, use it inside a calculation, or pass it straight to print .
+Example.
+def square(x):
+    return x * x
+a = square(3)        # store it
+print(a + 1)         # use it
+print(square(4))     # show it
+The screen shows 10  and then 16 .
+Questions
+6.1 (3 marks) Fill the blanks so the returned value is caught in three different ways.
+Python Functions - Practice Workbook
+Page 7 of 23
+def cube(n):
+    return n * n * n
+v = ______________            # store the result of cube(2) in v
+print(______________)         # show the result of cube(2) directly, without 
+using v
+total = v + ______________    # add the result of cube(3) to v
+6.2 (3 marks) Trace this code.
+def add(a, b):
+    return a + b
+add(2, 3)
+x = add(4, 5)
+print(x)
+Output: ______________ (1 mark)
+Is the result of add(2, 3)  stored anywhere (Yes or No)? ______________ (1 mark)
+What happens to that result? ______________________________ (1 mark)
+6.3 (4 marks) This code should print 30, but it does not work.
+def add(a, b):
+    print(a + b)
+total = add(5, 10)
+print(total * 2)
+Which error appears? ______________ (1 mark)
+Why does total  not hold 15? ______________________________ (1 mark)
+Rewrite the body of the function so the code prints 30 (2 marks):
+def add(a, b):
+    # your fix here
+Python Functions - Practice Workbook
+Page 8 of 23
+Unit 7: How to Send Values Into a Function (10 marks)
+Big idea. Parameters are the placeholder names in the def  line. Arguments are the real
+values you give in the call. They are matched by position, and the number of arguments
+must equal the number of parameters.
+Example.
+def info(name, age):
+    print(name, 'is', age)
+info('Asha', 14)
+The screen shows Asha is 14 . Here name  and age  are parameters; 'Asha'  and 14  are
+arguments.
+Questions
+7.1 (2 marks) Fill in the words parameter or argument.
+In def power(base, exp):  the word base  is a ______________.
+In the call power(2, 5)  the value 5  is an ______________.
+7.2 (3 marks) Predict the output (1 mark per line), then answer the question.
+def divide(a, b):
+    return a / b
+print(divide(10, 2))
+print(divide(2, 10))
+Line 1: ______________
+Line 2: ______________
+What decides which argument goes into a ? Answer: ______________________
+7.3 (3 marks) Using this function, write OK if the call works, or the error name if it
+crashes.
+def add(a, b):
+    return a + b
+Python Functions - Practice Workbook
+Page 9 of 23
+7.4 (2 marks) Write rectangle_area(length, width)  that returns the area of a
+rectangle. Then write one line that prints the area for length 4 and width 5.
+# your function here
+# your print line here
+Unit 8: Decisions and Loops Inside Functions (15 marks)
+Big idea. Use if / elif / else  to choose which value to return. Use a loop with a
+running total or a counter to build a result, and return  it after the loop has finished.
+Example.
+def grade(marks):
+    if marks >= 50:
+        return 'pass'
+    else:
+        return 'fail'
+def total(numbers):
+    s = 0
+    for n in numbers:
+        s += n
+    return s
+grade(72)  gives 'pass' , and total([1, 2, 3])  gives 6 .
+Questions
+8.1 (3 marks) Write sign(n)  that returns 'positive' , 'negative'  or 'zero' .
+Call OK or error name?
+add(1, 2)
+add(1)
+add(1, 2, 3)
+Python Functions - Practice Workbook
+Page 10 of 23
+# your function here
+# sign(5) -> positive    sign(-3) -> negative    sign(0) -> zero
+8.2 (3 marks) Write max_of_three(a, b, c)  that returns the largest of the three
+numbers. Do not use the built-in max() .
+# your function here
+# (3, 7, 5) -> 7    (10, 2, 8) -> 10    (5, 5, 5) -> 5
+8.3 (3 marks) Write count_vowels(text)  that returns how many vowels (a, e, i, o, u) the
+text has. Capital letters must count too.
+# your function here
+# 'hello' -> 2    'Apple' -> 2    'xyz' -> 0    'AEIOU' -> 5
+8.4 (3 marks) Bug hunt. This should return the sum of 1 to n, so sum_upto(4)  should give
+10. Find the 2 bugs (1 mark each), then write the corrected line or lines (1 mark).
+def sum_upto(n):
+    total = 0
+    for i in range(1, n):
+        total += i
+    print(total)
+Bug 1: ______________________________________
+Bug 2: ______________________________________
+Corrected line(s): ______________________________________
+8.5 (3 marks) The loop trap. Answer all three parts.
+Python Functions - Practice Workbook
+Page 11 of 23
+def sum_list(nums):
+    total = 0
+    for n in nums:
+        total += n
+        return total
+print(sum_list([1, 2, 3]))
+Output: ______________ (1 mark)
+Why is it not 6? ______________________________ (1 mark)
+What one change fixes it? ______________________________ (1 mark)
+Unit 9: Functions Calling Functions, and Scope (10 marks)
+Big idea. One function can call another, and the returned value is used right where the call
+was written. A variable created inside a function is local: it does not exist outside that
+function.
+Example.
+def half(n):
+    return n / 2
+def half_plus_one(n):
+    return half(n) + 1
+print(half_plus_one(10))
+half(10)  returns 5.0 , so the line becomes 5.0 + 1  and the screen shows 6.0 .
+Questions
+9.1 (3 marks) Trace the call step by step.
+def inc(n):
+    return n + 1
+def inc_twice(n):
+    return inc(inc(n))
+print(inc_twice(5))
+Python Functions - Practice Workbook
+Page 12 of 23
+inc(inc(5))
+= inc(________)
+= ________
+Output: ______________
+9.2 (3 marks) Scope. Answer all three parts.
+def make():
+    secret = 42
+    return secret
+make()
+print(secret)
+Which error appears? ______________ (1 mark)
+Why does it appear? ______________________________ (1 mark)
+Rewrite the last two lines so that 42 is printed (1 mark):
+# your two lines here
+9.3 (4 marks) Build on a previous function. Write is_even(n)  that returns True  or False
+(2 marks). Then write count_evens(numbers)  that uses is_even  to count the even
+numbers in a list (2 marks).
+# is_even here
+# count_evens here
+# print(count_evens([1, 2, 3, 4, 5, 6]))  -> 3
+Python Functions - Practice Workbook
+Page 13 of 23
+Unit 10: Functions Working Together (15 marks)
+Big idea. Real programs split a job into small functions that depend on each other. A
+simple rule: helper functions calculate and return ; one top-level function print s the
+final result. If a helper prints instead of returning, the functions above it have nothing to
+work with.
+Example. A shop bill built from three functions. print_bill  depends on bill_total ,
+which depends on line_total .
+def line_total(price, qty):
+    return price * qty
+def bill_total(p1, q1, p2, q2):
+    return line_total(p1, q1) + line_total(p2, q2)
+def print_bill(p1, q1, p2, q2):
+    print('Total:', bill_total(p1, q1, p2, q2))
+print_bill(10, 2, 5, 3)
+The screen shows Total: 35 , because 20 + 15 = 35 .
+Questions
+10.1 (4 marks) Study these three functions.
+def square(n):
+    return n * n
+def sum_of_squares(a, b):
+    return square(a) + square(b)
+def report(a, b):
+    print('Answer:', sum_of_squares(a, b))
+Which function prints? ______________ (1 mark)
+Which function does not call any other function? ______________ (1 mark)
+What appears on screen for report(3, 4) ? ______________ (1 mark)
+What value does the call report(3, 4)  give back? ______________ (1 mark)
+10.2 (4 marks) Trace this mix of print  and return . Write one line per box.
+Python Functions - Practice Workbook
+Page 14 of 23
+def add(a, b):
+    return a + b
+def show(a, b):
+    print(add(a, b))
+    return a * b
+x = show(2, 3)
+print(x)
+print(add(x, 1))
+Line 1: ______________
+Line 2: ______________
+Line 3: ______________
+Which statement inside show  sends a value back to the caller? Answer: ______________ (1
+mark)
+10.3 (4 marks) Find the problem in this pipeline.
+def get_total(prices):
+    total = 0
+    for p in prices:
+        total += p
+    print(total)
+def with_discount(prices):
+    return get_total(prices) - 10
+print(with_discount([30, 40]))
+What appears on screen before the program crashes? ______________ (1 mark)
+Which error is raised? ______________ (1 mark)
+What one change to get_total  fixes the program? ______________________________ (1
+mark)
+After the fix, what does the whole program print? ______________ (1 mark)
+10.4 (3 marks) Write is_adult(age)  that returns True  when age  is 18 or more,
+otherwise False  (1 mark). Then write check(age)  that uses is_adult  and prints Adult
+or Minor , returning nothing (2 marks).
+Python Functions - Practice Workbook
+Page 15 of 23
+# is_adult here
+# check here
+# check(20) prints Adult    check(12) prints Minor
+Unit 11: Function Reference (15 marks)
+Big idea. A function name is a variable that refers to the function itself. f  (no
+parentheses) is the function; f()  calls it and gives you its result. Because f  is a value,
+you can store it under another name or pass it into another function, which can call it later.
+Example.
+def greet():
+    return 'Hi'
+say = greet           # no parentheses: a second name for the same function
+print(say())          # call it through the new name
+print(greet)          # shows the function itself, not 'Hi'
+The screen shows Hi , then something like <function greet at 0x7f3a> . The address
+differs on every computer. Passing a function into another function works the same way:
+def apply(func, value):
+    return func(value)
+def double(x):
+    return x * 2
+print(apply(double, 5))   # double has no () here, so it is passed, not 
+called
+The screen shows 10 .
+Questions
+Python Functions - Practice Workbook
+Page 16 of 23
+11.1 (4 marks) Given def f(): return 7 , write R if the code is a reference to the
+function, or C if it calls the function.
+11.2 (4 marks) Trace this code. Write the output, or the error name if Python crashes.
+def seven():
+    return 7
+g = seven
+h = seven()
+print(g())
+print(h + 1)
+print(g + 1)
+Line 1: ______________
+Line 2: ______________
+Line 3: ______________
+Which variable, g  or h , holds the number 7 itself? Answer: ______________ (1 mark)
+11.3 (4 marks) Passing a function. Write the output of each line (1 mark each), then answer
+the question.
+Code R or C?
+a f
+b f()
+c g = f
+d g = f()
+Python Functions - Practice Workbook
+Page 17 of 23
+def apply(func, value):
+    return func(value)
+def square(x):
+    return x * x
+def negate(x):
+    return -x
+print(apply(square, 4))
+print(apply(negate, 4))
+print(apply(square, apply(negate, 3)))
+Line 1: ______________
+Line 2: ______________
+Line 3: ______________
+In apply(square, 4) , why is there no ()  after square ? Answer:
+______________________________ (1 mark)
+11.4 (3 marks) Write run_twice(func)  that calls the function it receives two times. Inside
+run_twice , call func  with parentheses and no arguments.
+def say_hi():
+    print('Hi!')
+# write run_twice here
+run_twice(say_hi)    # should print Hi! on two lines
+Unit 12: Recursion Made Easy (15 marks)
+Big idea. Recursion means a function calls itself on a smaller version of the same problem.
+Every recursive function needs two parts: a base case that stops the calls, and a
+recursive case that moves closer to the base case. Without a base case, Python raises an
+error after too many calls.
+Example. A recursive countdown that prints, and a recursive function that returns a
+value.
+Python Functions - Practice Workbook
+Page 18 of 23
+def countdown(n):
+    if n == 0:                 # base case
+        print('Go!')
+    else:
+        print(n)
+        countdown(n - 1)       # recursive case
+countdown(3)
+The screen shows 3 , 2 , 1 , then Go! .
+def power_of_two(n):
+    if n == 0:                 # base case
+        return 1
+    return 2 * power_of_two(n - 1)
+Trace of power_of_two(3) : 2 * power_of_two(2) , then 2 * 2 * power_of_two(1) ,
+then 2 * 2 * 2 * power_of_two(0) , then 2 * 2 * 2 * 1 , which is 8 .
+Questions
+12.1 (2 marks) Look at this function.
+def shout(n):
+    if n == 0:
+        print('Done')
+    else:
+        print('Hey')
+        shout(n - 1)
+Which condition is the base case? ______________ (1 mark)
+Which line is the recursive call? ______________ (1 mark)
+12.2 (3 marks) Write the output of shout(2) , one line per box.
+Line 1: ______________
+Line 2: ______________
+Line 3: ______________
+12.3 (3 marks) What goes wrong here?
+Python Functions - Practice Workbook
+Page 19 of 23
+def forever(n):
+    print(n)
+    forever(n - 1)
+forever(3)
+Which error does Python eventually raise? ______________ (1 mark)
+What part is missing? ______________ (1 mark)
+Write the lines that stop it after it prints 1 (1 mark):
+# your fix here
+12.4 (4 marks) Complete the factorial function (3 marks), then write the value of
+factorial(3)  (1 mark). Remember factorial(3) = 3 × 2 × 1 .
+def factorial(n):
+    if n <= 1:
+        return ______________
+    return ______________ * factorial(______________)
+factorial(3) = ______________
+12.5 (3 marks) Write a recursive function sum_to(n)  that returns 1 + 2 + ... + n , with
+sum_to(0)  equal to 0.
+# your function here
+# sum_to(4) -> 10    sum_to(1) -> 1    sum_to(0) -> 0
+Unit 13: Final Challenge (15 marks)
+Big idea. This unit mixes everything: helpers that return, a top-level function that prints, a
+function passed as a reference, and a recursive call. Plan the dependencies first: which
+function needs which?
+Questions
+Python Functions - Practice Workbook
+Page 20 of 23
+13.1 (5 marks) Temperature converter. Write the two helpers (1 mark each), then convert ,
+which must call the helpers and return their result (3 marks).
+def celsius_to_fahrenheit(c):      # F = C * 9/5 + 32
+    # your code
+def fahrenheit_to_celsius(f):      # C = (F - 32) * 5/9
+    # your code
+def convert(value, unit):          # 'C' -> to Fahrenheit, 'F' -> to Celsius, 
+anything else -> None
+    # your code
+# convert(0, 'C') -> 32.0    convert(212, 'F') -> 100.0    convert(50, 'X') -
+> None
+13.2 (5 marks) Report card. Write three functions that depend on each other.
+average(marks)  returns the average of a list of marks, or 0 for an empty list (2 marks).
+grade_for(avg)  returns 'A'  if avg  is 75 or more, 'B'  if it is 50 or more, otherwise
+'C'  (1 mark).
+report(name, marks)  uses the other two and prints the name, a colon and the grade,
+returning nothing (2 marks).
+Python Functions - Practice Workbook
+Page 21 of 23
+# average here
+# grade_for here
+# report here
+# report('Asha', [80, 90, 70]) prints Asha: A
+13.3 (5 marks) Apply a function many times. This recursive function takes a function, a
+starting value and a count. Fill the blanks (2 marks each), then write the value of the
+traced call (1 mark).
+def double(x):
+    return x * 2
+def apply_n_times(func, value, n):
+    if n == 0:
+        return ______________
+    return apply_n_times(func, ______________, n - 1)
+apply_n_times(double, 3, 2)
+= apply_n_times(double, 6, 1)
+= apply_n_times(double, ________, 0)
+= ________
+Self-Assessment
+Tick a box only if you can do it without looking back.
+I can explain what a function is and why we use one
+I can define a function and call it, and I know def  alone runs nothing
+Python Functions - Practice Workbook
+Page 22 of 23
+What I still need to practise: ______________________________________________
+I can say what return  does and what a function gives back when it has no return
+I can say what print  does and why it is not the same as return
+I can choose between print  and return  for a given job
+I can catch a returned value by storing it, using it, or printing it
+I can tell a parameter from an argument and predict what happens with the wrong
+number of arguments
+I can use if/elif/else  and loops inside a function
+I can call one function from another and explain why a local variable cannot be used
+outside its function
+I can trace a chain of functions that mixes print  and return , and fix a helper that
+prints when it should return
+I can tell f  from f() , store a function under another name, and pass a function into
+another function
+I can find the base case and the recursive case in a recursive function
+I can write a simple recursive function and trace it step by step
+Python Functions - Practice Workbook
+Page 23 of 23
+```
+
+---
 ## WHERE THESE QUESTIONS CAME FROM (sources)
 - **Subject assignment pages / My Assignments + Assignment Contests API** — 29 assignments, 100 questions; full statement captured from each question's playground page (read-only visit) — 100/100 texts present.
 - **Lecture pages** (Course Content sidebar list) — 14 of 32 lecture windows carry content: post-class question text below the video (`Read More` expanded) and in-class quiz questions via read-only views only (Revise / View Solutions / Next-Previous walk — never Attempt/Start/Submit).
 - **Assessments API** — 9 quiz schedules (title, window, XP earned). No question text in the API (hidden until test start).
+- **Slack search harvest** (`slack_harvest.py`, 2026-10-23) — 62 messages across #psp-26/#psp-b1/#psp-b2 (every Slack-reported result captured; no Send-button use): directive + 97 Codeforces sheet problem links + 12 code-list problems + the workbook's 47 questions (Google Sheets + Drive file fetched read-only).
 
 ---
 ## NOT FETCHED — open these yourself
@@ -7893,5 +8642,10 @@ Newton School
 - Quiz contest questions only appear after `Start Test` (graded, consumes an attempt): open the Quiz Contests tab manually if you want these: PSP Contest 1, Wifi Demo, Demo_Contest, Mock Test
 - What IS captured: all assignment questions (100), all in-class quiz questions shown above, all contest ASSIGNMENT texts (e.g. PSP Contest 2)
 
+### Slack-given links (statements live at the URL)
+- 109 Codeforces problems: Slack shared links/codes only — open each link for the statement (sheets above list topic + rating).
+- The two shared Google Sheets are view-only for you: File > Make a copy before ticking attempts (per the relayed directive).
+- The Google Drive workbook PDF is fully extracted above; original link kept in sources section.
+
 ---
-TOTALS: 100 assignment questions (77 solved), 9 quizzes, 0 questions without captured text, 14 lecture windows with content.
+TOTALS: 100 assignment questions (77 solved), 9 quizzes, 0 questions without captured text, 14 lecture windows with content, Slack: 62 msgs, 97 sheet problems, 12 code-list problems, 47 workbook questions
